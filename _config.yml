@@ -1,0 +1,10 @@
+title: Ersin Elci
+description: Software, finance, learning notes, and thoughts.
+theme: minima
+
+author:
+  name: Ersin Elci
+
+url: "https://ersinelci.github.io"
+
+permalink: /:year/:month/:day/:title/
